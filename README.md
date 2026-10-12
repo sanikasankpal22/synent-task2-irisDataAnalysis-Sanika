@@ -69,4 +69,3 @@ Task-2-Data-Visualization/
 └── README.md
 ```
 
-*Note: Update the notebook filename to match your actual file. Include any saved chart images or dataset files if they are part of your submission.*
